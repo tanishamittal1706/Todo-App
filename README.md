@@ -6,9 +6,9 @@ A modern, responsive Todo Application built with HTML5, CSS3, JavaScript (ES6), 
 
 ## 📸 App Preview
 
-![Todo App Preview](./screenshot.png)
+![Todo App Preview](./Screenshot.png)
 
-> **Note:** Replace `./screenshot.png` in the line above with the actual path or file name of your uploaded screenshot!
+> **Note:** Replace `./Screenshot.png` in the line above with the actual path or file name of your uploaded screenshot!
 
 ---
 
